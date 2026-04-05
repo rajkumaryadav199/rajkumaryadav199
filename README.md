@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajkumar</h1>
-<h3 align="center">I am a Full Stack Developer with expertise in Firebase, MySql, NoSQL, MongoDB, React, Node.js, and JavaScript, boasting 2 years of hands-on experience in the field. Passionate about exploring new technologies, I am dedicated to pushing the boundaries of web development. With a keen eye for detail and a drive for innovation, he thrives in dynamic environments where he can leverage his skills to create impactful solutions</h3>
+<h3 align="center">I am a Full Stack Developer with expertise in Firebase, MySql, NoSQL, MongoDB, React, Node.js, and JavaScript, boasting 4 years of hands-on experience in the field. Passionate about exploring new technologies, I am dedicated to pushing the boundaries of web development. With a keen eye for detail and a drive for innovation, he thrives in dynamic environments where he can leverage his skills to create impactful solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumaryadav199&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumaryadav199" /> </p>
 
