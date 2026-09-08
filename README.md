@@ -1,29 +1,226 @@
 <h1 align="center">Hi 👋, I'm Rajkumar</h1>
-<h3 align="center">I am a Full Stack Developer with expertise in Firebase, MySql, NoSQL, MongoDB, React, Node.js, and JavaScript, boasting 4 years of hands-on experience in the field. Passionate about exploring new technologies, I am dedicated to pushing the boundaries of web development. With a keen eye for detail and a drive for innovation, he thrives in dynamic environments where he can leverage his skills to create impactful solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumaryadav199&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumaryadav199" /> </p>
+<h3 align="center">
+Full Stack Software Engineer with 4 years of experience building scalable web applications using React, TypeScript, JavaScript, Node.js, MongoDB, and MySQL.
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkumaryadav199" alt="rajkumaryadav199" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://rajkumar-yadav-portfolio.netlify.app/](https://rajkumar-yadav-portfolio.netlify.app/)
-
-- 💬 Ask me about **React, Redux, Nodejs, MongoDB, MySql, NoSql, Firebase, Nextjs**
-
-- 📫 How to reach me **kuraj10101999@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zIisp7KT69iknED1vPQHk4fdLmOBa7Tf/view?usp=drive_link](https://drive.google.com/file/d/1zIisp7KT69iknED1vPQHk4fdLmOBa7Tf/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/rajkumar19914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rajkumar19914" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajkumar-yadav-0461a221b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajkumar-yadav-0461a221b" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@kuraj10101999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kuraj10101999" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajkumar199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajkumar199" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://rajkumar-yadav-portfolio.netlify.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/rajkumar-yadav-0461a221b">LinkedIn</a> •
+  <a href="https://leetcode.com/rajkumar199">LeetCode</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumaryadav199&show_icons=true&locale=en&layout=compact" alt="rajkumaryadav199" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajkumaryadav199&show_icons=true&locale=en" alt="rajkumaryadav199" /></p>
+* 💼 **4 years of professional experience** as a Full Stack Developer
+* 🚀 Building **production-ready web applications** with React, TypeScript, and Node.js
+* 🎨 Strong experience in **React, Redux, JavaScript, HTML, CSS, and TypeScript**
+* ⚙️ Backend development using **Node.js, Express.js, and REST APIs**
+* 🗄️ Experience working with **MongoDB and MySQL**
+* 🔥 Experience with **Firebase** and modern web application development
+* 🔧 Comfortable working with **Git/GitHub, Postman, API integration, debugging, and production issue resolution**
+* 🧩 Interested in **scalable backend architecture, system design, performance optimization, and AI-powered applications**
+* 📚 Currently strengthening **DSA, system design, automated testing, Docker, AWS, and AI integration**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="40" height="40" />
+</p>
+
+---
+
+## 🚀 What I Work On
+
+### Frontend Engineering
+
+* React application architecture
+* Reusable components
+* TypeScript
+* Redux / state management
+* REST API integration
+* Form management and validation
+* Responsive UI development
+* Performance optimization
+
+### Backend Engineering
+
+* Node.js & Express.js
+* RESTful API development
+* Authentication & authorization
+* API validation
+* Error handling
+* Database integration
+* Business logic
+* API performance and optimization
+
+### Database
+
+* MongoDB
+* MySQL
+* Data modeling
+* CRUD operations
+* Query optimization
+* Relationships and indexing
+
+---
+
+## 🧠 Currently Learning
+
+I'm actively improving my engineering depth in:
+
+```text
+DSA
+ ↓
+Advanced JavaScript & TypeScript
+ ↓
+Node.js & Backend Architecture
+ ↓
+SQL & Database Design
+ ↓
+System Design
+ ↓
+Automated Testing
+ ↓
+Docker
+ ↓
+AWS
+ ↓
+AI / LLM API Integration
+```
+
+My goal is to build **reliable, scalable and production-oriented software**, not just demos.
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI-Powered CRM
+
+A full-stack CRM application designed to demonstrate production-oriented engineering and AI integration.
+
+**Planned/implemented technologies:**
+
+* React
+* TypeScript
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
+* Authentication
+* Role-based access control
+* AI/LLM API integration
+* Automated testing
+* Docker
+
+**Key features:**
+
+* User authentication
+* Companies & contacts
+* Lead management
+* Deal management
+* Search, filtering & pagination
+* AI-powered lead analysis
+* AI-generated summaries
+* Personalized outreach generation
+* API validation
+* Error handling
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajkumaryadav199&show_icons=true&locale=en" alt="Rajkumar's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajkumaryadav199&show_icons=true&locale=en&layout=compact" alt="Rajkumar's Top Languages" />
+</p>
+
+---
+
+## 🧩 Problem Solving
+
+I am actively improving my problem-solving skills through:
+
+* Data Structures & Algorithms
+* LeetCode
+* SQL problems
+* System Design
+* Backend architecture problems
+
+<a href="https://leetcode.com/rajkumar199">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/rajkumar-yadav-0461a221b">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://twitter.com/rajkumar19914">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+
+<a href="https://www.hackerrank.com/@kuraj10101999">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/rajkumar199">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 📫 Contact
+
+* 🌐 Portfolio: https://rajkumar-yadav-portfolio.netlify.app/
+* 💼 LinkedIn: https://www.linkedin.com/in/rajkumar-yadav-0461a221b
+* 📧 Email: [kuraj10101999@gmail.com](mailto:kuraj10101999@gmail.com)
+* 📄 Resume: https://drive.google.com/file/d/1zIisp7KT69iknED1vPQHk4fdLmOBa7Tf/view
+
+---
+
+<p align="center">
+  <b>Building. Learning. Solving. Shipping. 🚀</b>
+</p>
