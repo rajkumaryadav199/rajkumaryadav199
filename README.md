@@ -217,7 +217,7 @@ I am actively improving my problem-solving skills through:
 * 🌐 Portfolio: https://rajkumar-yadav-portfolio.netlify.app/
 * 💼 LinkedIn: https://www.linkedin.com/in/rajkumar-yadav-0461a221b
 * 📧 Email: [kuraj10101999@gmail.com](mailto:kuraj10101999@gmail.com)
-* 📄 Resume: https://drive.google.com/file/d/1zIisp7KT69iknED1vPQHk4fdLmOBa7Tf/view
+* 📄 Resume: [https://docs.google.com/document/d/1v42CpTHOnjnV71GHLLVTthyhb6o-GkUW/edit?usp=drive_link&ouid=106665944541066514845&rtpof=true&sd=true]
 
 ---
 
